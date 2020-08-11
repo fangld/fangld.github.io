@@ -22,7 +22,7 @@ layout: default
 
 # Publications (*: Corresponding Authors)
 
-1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Kaile Su, Quanlong Guan. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B)
+1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Kaile Su, Quanlong Guan. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B) [Source code](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
 1. Zhao-Rong Lai, Liming Tan, Xiaotian Wu, **Liangda Fang**. Loss Control with Rank-one Covariance Estimate for Short-term Portfolio Optimization. Journal of Machine Learning Research, 21: 1-37, 2020. (CCF A)
 
@@ -30,7 +30,7 @@ layout: default
 
 1. Kaisheng Wu, Yong Qiao, Kaidong Chen, Fei Rong, **Liangda Fang***, Zhao-Rong Lai, Qian Dong, Liping Xiong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games. In Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020), 2020. (CCF B)
 
-1. **Liangda Fang**, Biqing Fang, Hai Wan, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 International Conference On Computer Aided Design (ICCAD-2019), 2019. (CCF B)
+1. **Liangda Fang**, Biqing Fang, Hai Wan, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 International Conference On Computer Aided Design (ICCAD-2019), 2019. (CCF B) [Source code](https://github.com/fangbq/TSDD)
 
 1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Disjunctive Normal Form for Multi-Agent Modal Logics Based on Logical Separability. In Proceedings of the 23rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2817-2826, 2019. (CCF A)
 
