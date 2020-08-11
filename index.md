@@ -14,7 +14,7 @@ layout: default
 
 # Working Experience
 
-* 10/2018-NOW, Associate Professor, Jinan University, Guangzhou, China.
+* 2018/10-NOW, Associate Professor, Jinan University, Guangzhou, China.
 	
 * 2016/02-2018/09, Lecturer, Jinan University, Guangzhou, China.
 
@@ -28,7 +28,7 @@ layout: default
 
 1. Kaisheng Wu, **Liangda Fang***, Liping Xiong, Zhao-Rong Lai, Yong Qiao, Kaidong Chen, Fei Rong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games Using SMT Solvers. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI-2020), 1703-1711, 2020. (CCF A)
 
-1. Kaisheng Wu, Yong Qiao, Kaidong Chen, Fei Rong, **Liangda Fang***, Zhao-Rong Lai, Qian Dong, Liping Xiong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games. In Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020). (CCF B)
+1. Kaisheng Wu, Yong Qiao, Kaidong Chen, Fei Rong, **Liangda Fang***, Zhao-Rong Lai, Qian Dong, Liping Xiong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games. In Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020), 2020. (CCF B)
 
 1. **Liangda Fang**, Biqing Fang, Hai Wan, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 International Conference On Computer Aided Design (ICCAD-2019), 2019. (CCF B)
 
