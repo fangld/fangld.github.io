@@ -2,122 +2,58 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Education Background
 
-[Link to another page](./another-page.html).
+* 2011/09-2015/12, PhD. in Computer Software and Theory, Sun Yat-sen University, China, Advisor: [Prof. Yongmei Liu](https://sdcs.sysu.edu.cn/content/2490).
 
-There should be whitespace between paragraphs.
+* 2007/09-2010/06, Master in Computer Architecture, Guangdong University of Technology, China, Advisor: Prof. Yongquan Yu.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+* 2003/09-2007/06, Bachelor in Computer Science and Technology, Guangzhou University, China.
 
 * * *
 
-### Here is an unordered list:
+# Working Experience
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* 10/2018-NOW, Associate Professor, Jinan University, Guangzhou, China.
+	
+* 2016/02-2018/09, Lecturer, Jinan University, Guangzhou, China.
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# Publication List (*: Corresponding authors)
 
-### And a nested list:
+1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Kaile Su, Quanlong Guan. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+1. Zhao-Rong Lai, Liming Tan, Xiaotian Wu, **Liangda Fang**. Loss Control with Rank-one Covariance Estimate for Short-term Portfolio Optimization. Journal of Machine Learning Research, 21: 1-37, 2020. (CCF A)
 
-### Small image
+1. Kaisheng Wu, **Liangda Fang***, Liping Xiong, Zhao-Rong Lai, Yong Qiao, Kaidong Chen, Fei Rong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games Using SMT Solvers. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI-2020), 1703-1711, 2020. (CCF A)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+1. Kaisheng Wu, Yong Qiao, Kaidong Chen, Fei Rong, **Liangda Fang***, Zhao-Rong Lai, Qian Dong, Liping Xiong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games. In Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020). (CCF B)
 
-### Large image
+1. **Liangda Fang**, Biqing Fang, Hai Wan, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 International Conference On Computer Aided Design (ICCAD-2019), 2019. (CCF B)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Disjunctive Normal Form for Multi-Agent Modal Logics Based on Logical Separability. In Proceedings of the 23rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2817-2826, 2019. (CCF A)
 
+1. Xuanxiang Huang, Kehang Fang, **Liangda Fang***, Qingliang Chen, Zhao-Rong Lai, Linfeng Wei. Bi-Kronecker Functional Decision Diagrams: A Novel Canonical Representation of Boolean Functions. In Proceedings of the 23rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2867-2875, 2019. (CCF A)
 
-### Definition lists can be used with HTML syntax.
+1. **Liangda Fang**, Yongmei Liu, Hans van Ditmarsch. Forgetting in multi-agent modal logics. Artificial Intelligence, 266: 51-80, 2019. (CCF A)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. Zhao-Rong Lai, Pei-Yi Yang, Liangda Fang, Xiaotian Wu. Short-term Sparse Portfolio Optimization Based on Alternating Direction Method of Multipliers. Journal of Machine Learning Research, 19:1-28, 2018. (CCF A)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Knowledge Compilation in the Multi-Agent Epistemic Logic Kn. In Proceedings of the 16th International Conference on Principles of Knowledge Representation and Reasoninge (KR-2018), 637-638, 2018. (CCF B)
 
-```
-The final element.
-```
+1. Zhao-Rong Lai, Pei-Yi Yang, Xiaotian Wu, **Liangda Fang**. A kernel-based trend pattern tracking system for portfolio optimization. Data Mining and Knowledge Discovery, 32(6): 1708-1734, 2018. (CCF B)
+
+1. Pei-Yi Yang, Zhao-Rong Lai*, Xiaotian Wu, **Liangda Fang**. Trend representation based log-density regularization system for portfolio optimization. Pattern Recognition, 76: 14-24, 2018. (CCF B)
+
+1. **Liangda Fang**, Hai Wan, Xianqiao Liu, Biqing Fang, Zhaorong Lai. Dependence in Propositional Logic: Formula-Formula Dependence and Formula Forgetting – Application to Belief Update and Conservative Extension. In Proceedings of the 22nd AAAI Conference on Artificial Intelligence (AAAI-2018), 1835-1844, 2018. (CCF A)
+
+1. **Liangda Fang**, Yongemei Liu, Hans van Ditmarsch. Forgetting in Multi-Agent Modal Logics. In Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI-2016), 1066-1073, 2016. (CCF A)
+
+1. **Liangda Fang**, Yongmei Liu, Ximing Wen. On the Progression of Knowledge and Belief for Nondeterministic Actions in the Situation Calculus. In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI-2015), 2955-2963, 2015. (CCF A)
+
+1. Hai Wan, Rui Yang, **Liangda Fang**, Yongmei Liu, Huada Xu. A Complete Epistemic Planner without the Epistemic Closed World Assumption. In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI-2015), 3257-3263, 2015. (CCF A)
+
+1. **Liangda Fang**. High-Level Program Execution in Multi-Agent Settings. In Proceedings of the 23rd International Joint Conference on Artificial Intelligence Doctoral Consortium Program (IJCAI-2013 DC), 3213-3214, 2013. (CCF A)
+
+1. **Liangda Fang**, Yongmei Liu. Multiagent Knowledge and Belief Change in the Situation Calculus. In Proceedings of the 27th AAAI Conference on Artificial Intelligence (AAAI-2013), 304-312, 2013. (CCF A)
