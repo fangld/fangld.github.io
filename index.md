@@ -38,7 +38,7 @@ layout: default
 
 1. **Liangda Fang**, Yongmei Liu*, Hans van Ditmarsch. Forgetting in multi-agent modal logics. Artificial Intelligence, 266: 51-80, 2019. (CCF A)
 
-1. Zhao-Rong Lai, Pei-Yi Yang, **Liangda Fang**, Xiaotian Wu. Short-term Sparse Portfolio Optimization Based on Alternating Direction Method of Multipliers. Journal of Machine Learning Research, 19:1-28, 2018. (CCF A)
+1. Zhao-Rong Lai, Pei-Yi Yang, **Liangda Fang**, Xiaotian Wu. Short-term Sparse Portfolio Optimization Based on Alternating Direction Method of Multipliers. Journal of Machine Learning Research, 19(63):1-28, 2018. (CCF A)
 
 1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Knowledge Compilation in the Multi-Agent Epistemic Logic Kn. In Proceedings of the 16th International Conference on Principles of Knowledge Representation and Reasoninge (KR-2018), 637-638, 2018. (CCF B)
 
