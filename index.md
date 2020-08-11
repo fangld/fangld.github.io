@@ -1,24 +1,12 @@
 ---
 layout: default
 ---
-# Contact Information
-* No. 420, Nanhai Building
+# E-mail
+* fangld [at] jnu [dot] edu [dot] cn
 
-* E-mail: fangld [at] jnu [dot] edu [dot] cn
+# Bio
 
-# Education Background
-
-* 2011/09-2015/12, PhD. in Computer Software and Theory, [Sun Yat-sen University](http://www.sysu.edu.cn/), China, Advisor: [Prof. Yongmei Liu](https://sdcs.sysu.edu.cn/content/2490).
-
-* 2007/09-2010/06, Master in Computer Architecture, [Guangdong University of Technology](http://www.gdut.edu.cn), China, Advisor: Prof. Yongquan Yu.
-
-* 2003/09-2007/06, Bachelor in Computer Science and Technology, [Guangzhou University](http://www.gzhu.edu.cn), China.
-
-# Working Experience
-
-* 2018/10-NOW, Associate Professor, Jinan University, Guangzhou, China.
-	
-* 2016/02-2018/09, Lecturer, Jinan University, Guangzhou, China.
+Liangda Fang received his PhD from Sun Yat-sen University in 2015. After graduaction, he joined Jinan University as a lecturer, and was promoted to an associated professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 18 papers (including 12 CCF A class papers and 6 CCF B class papers). He served as local chair of the 14th International Symposium on Combinatorial Search (SoCS-2021), PC member of AAAI(2016, 2019, 2020), IJCAI(2018, 2020), ECAI-2020, and reviewer of journals: Artificial Intelligence, International Journal of Approximate Reasoning.
 
 # Publications (*: Corresponding Authors)
 
