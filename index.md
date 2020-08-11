@@ -36,9 +36,9 @@ layout: default
 
 1. Xuanxiang Huang, Kehang Fang, **Liangda Fang***, Qingliang Chen, Zhao-Rong Lai, Linfeng Wei. Bi-Kronecker Functional Decision Diagrams: A Novel Canonical Representation of Boolean Functions. In Proceedings of the 23rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2867-2875, 2019. (CCF A)
 
-1. **Liangda Fang**, Yongmei Liu, Hans van Ditmarsch. Forgetting in multi-agent modal logics. Artificial Intelligence, 266: 51-80, 2019. (CCF A)
+1. **Liangda Fang**, Yongmei Liu*, Hans van Ditmarsch. Forgetting in multi-agent modal logics. Artificial Intelligence, 266: 51-80, 2019. (CCF A)
 
-1. Zhao-Rong Lai, Pei-Yi Yang, Liangda Fang, Xiaotian Wu. Short-term Sparse Portfolio Optimization Based on Alternating Direction Method of Multipliers. Journal of Machine Learning Research, 19:1-28, 2018. (CCF A)
+1. Zhao-Rong Lai, Pei-Yi Yang, **Liangda Fang**, Xiaotian Wu. Short-term Sparse Portfolio Optimization Based on Alternating Direction Method of Multipliers. Journal of Machine Learning Research, 19:1-28, 2018. (CCF A)
 
 1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Knowledge Compilation in the Multi-Agent Epistemic Logic Kn. In Proceedings of the 16th International Conference on Principles of Knowledge Representation and Reasoninge (KR-2018), 637-638, 2018. (CCF B)
 
