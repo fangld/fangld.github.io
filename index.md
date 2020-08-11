@@ -14,17 +14,13 @@ layout: default
 
 * 2003/09-2007/06, Bachelor in Computer Science and Technology, [Guangzhou University](http://www.gzhu.edu.cn), China.
 
-* * *
-
 # Working Experience
 
 * 2018/10-NOW, Associate Professor, Jinan University, Guangzhou, China.
 	
 * 2016/02-2018/09, Lecturer, Jinan University, Guangzhou, China.
 
-* * *
-
-# Publication List (*: Corresponding authors)
+# Publications (*: Corresponding Authors)
 
 1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Kaile Su, Quanlong Guan. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B)
 
@@ -61,3 +57,11 @@ layout: default
 1. **Liangda Fang**. High-Level Program Execution in Multi-Agent Settings. In Proceedings of the 23rd International Joint Conference on Artificial Intelligence Doctoral Consortium Program (IJCAI-2013 DC), 3213-3214, 2013. (CCF A)
 
 1. **Liangda Fang**, Yongmei Liu. Multiagent Knowledge and Belief Change in the Situation Calculus. In Proceedings of the 27th AAAI Conference on Artificial Intelligence (AAAI-2013), 304-312, 2013. (CCF A)
+
+# Teaching
+
+* Numerical Analysis (Fall 2016, 2017, 2018, 2019, 2020)
+
+* Mathematical Logics (Graduated Courses) (Spring 2017, Fall 2017, 2018, 2019, 2020)
+
+* Distributed Computation (Spring 2017)
