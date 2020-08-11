@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
+# Contact Information
+* No. 420, Nanhai Building
+
+* E-mail: fangld [at] jnu [dot] edu [dot] cn
 
 # Education Background
 
-* 2011/09-2015/12, PhD. in Computer Software and Theory, Sun Yat-sen University, China, Advisor: [Prof. Yongmei Liu](https://sdcs.sysu.edu.cn/content/2490).
+* 2011/09-2015/12, PhD. in Computer Software and Theory, [Sun Yat-sen University](http://www.sysu.edu.cn/), China, Advisor: [Prof. Yongmei Liu](https://sdcs.sysu.edu.cn/content/2490).
 
-* 2007/09-2010/06, Master in Computer Architecture, Guangdong University of Technology, China, Advisor: Prof. Yongquan Yu.
+* 2007/09-2010/06, Master in Computer Architecture, [Guangdong University of Technology](http://www.gdut.edu.cn), China, Advisor: Prof. Yongquan Yu.
 
-* 2003/09-2007/06, Bachelor in Computer Science and Technology, Guangzhou University, China.
+* 2003/09-2007/06, Bachelor in Computer Science and Technology, [Guangzhou University](http://www.gzhu.edu.cn), China.
 
 * * *
 
