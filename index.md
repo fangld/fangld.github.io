@@ -8,7 +8,9 @@ layout: default
 
 Liangda Fang received his PhD from Sun Yat-sen University in 2015. After graduaction, he joined Jinan University as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 18 papers (including 12 CCF A class papers and 6 CCF B class papers). He served as local chair of the 14th International Symposium on Combinatorial Search (SoCS-2021), PC member of AAAI(2016, 2019, 2020), IJCAI(2018, 2020), ECAI-2020, and reviewer of journals: Artificial Intelligence, International Journal of Approximate Reasoning.
 
-# Publications (*: Corresponding Authors)
+# Publications
+
+*: Corresponding Authors
 
 1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Kaile Su, Quanlong Guan. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B) [Source code](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
