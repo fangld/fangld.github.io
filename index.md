@@ -12,7 +12,7 @@ Liangda Fang received his PhD from Sun Yat-sen University in 2015. After graduac
 
 *: Corresponding Authors
 
-1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Kaile Su, Quanlong Guan. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B) [Source code](https://github.com/XuanxiangHuang/bkfdd-1.0)
+1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B) [Source code](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
 1. Zhao-Rong Lai, Liming Tan, Xiaotian Wu, **Liangda Fang**. Loss Control with Rank-one Covariance Estimate for Short-term Portfolio Optimization. Journal of Machine Learning Research, 21: 1-37, 2020. (CCF A)
 
