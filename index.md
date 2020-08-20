@@ -6,7 +6,7 @@ layout: default
 
 # Bio
 
-Liangda Fang received his PhD from Sun Yat-sen University in 2015. After graduaction, he joined Jinan University as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 18 papers (including 12 CCF A class papers and 6 CCF B class papers). He is currently the local chair of the 14th International Symposium on Combinatorial Search ([SoCS-2021](https://sites.google.com/unibs.it/socs2021/home)), and served as PC member of AAAI-(2016, 2019, 2020), IJCAI-(2018, 2020), ECAI-2020, and reviewer of journals: Artificial Intelligence, International Journal of Approximate Reasoning.
+Liangda Fang received his PhD from Sun Yat-sen University in 2015. After graduaction, he joined Jinan University as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 18 papers (including 12 CCF A class papers and 6 CCF B class papers). He is currently the local chair of the 14th International Symposium on Combinatorial Search ([SoCS-2021](https://sites.google.com/unibs.it/socs2021)), and served as PC member of AAAI-(2016, 2019, 2020), IJCAI-(2018, 2020), ECAI-2020, and reviewer of journals: Artificial Intelligence, International Journal of Approximate Reasoning.
 
 # Publications
 
