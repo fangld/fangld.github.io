@@ -42,7 +42,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.
 
 1. **Liangda Fang**, Yongmei Liu, Ximing Wen. On the Progression of Knowledge and Belief for Nondeterministic Actions in the Situation Calculus. In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI-2015), 2955-2963, 2015. (CCF A)
 
-1. Hai Wan, Rui Yang, **Liangda Fang**, Yongmei Liu, Huada Xu. A Complete Epistemic Planner without the Epistemic Closed World Assumption. In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI-2015), 3257-3263, 2015. (CCF A)
+1. Hai Wan, Rui Yang*, **Liangda Fang**, Yongmei Liu, Huada Xu. A Complete Epistemic Planner without the Epistemic Closed World Assumption. In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI-2015), 3257-3263, 2015. (CCF A)
 
 1. **Liangda Fang**. High-Level Program Execution in Multi-Agent Settings. In Proceedings of the 23rd International Joint Conference on Artificial Intelligence Doctoral Consortium Program (IJCAI-2013 DC), 3213-3214, 2013. (CCF A)
 
