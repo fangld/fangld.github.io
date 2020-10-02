@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # E-mail
 * fangld [at] jnu [dot] edu [dot] cn
 
