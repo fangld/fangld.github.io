@@ -7,7 +7,8 @@ layout: default
 
 # Bio
 
-Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2015. After graduaction, he joined [Jinan University](https://www.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 18 papers (including 12 CCF A class papers and 6 CCF B class papers). He served as local chair of ([SoCS-2021](https://sites.google.com/unibs.it/socs2021)), and served as PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019, 2020, 2021), [IJCAI](https://www.ijcai.org/) (2018, 2020, 2021), [KR](http://www.kr.org/) (2021), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020), and reviewer of journals: [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence/), [Neural Networks](https://www.sciencedirect.com/journal/neural-networks), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning/) and so on.
+Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2015. After graduaction, he joined [Jinan University](https://www.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 18 papers (including 12 CCF Rank A papers and 6 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), and served as PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019, 2020, 2021), [IJCAI](https://www.ijcai.org/) (2018, 2020), [KR](http://www.kr.org/) (2021), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020).
+He also served as Senior-PC member of [IJCAI-2021](https://ijcai-21.org/) and received the [Distinguished PC Award](https://ijcai-21.org/distinguished-reviewers/) of IJCAI-2021. He served as reviewer of journals: [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence/), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning/), [Frontiers of Computer Science](https://www.springer.com/journal/11704), [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/) and so on.
 
 # Publications
 
@@ -51,8 +52,8 @@ Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.
 
 # Teaching
 
-* [Numerical Analysis](./numerical-analysis.html) (Fall 2016, 2017, 2018, 2019, 2020)
+* [Numerical Analysis](./numerical-analysis.html) (Fall 2016, 2017, 2018, 2019, 2020, 2021)
 
-* [Mathematical Logics](./mathematical-logics.html) (Graduated Courses) (Spring 2017, Fall 2017, 2018, 2019, 2020)
+* [Mathematical Logics](./mathematical-logics.html) (Graduated Courses) (Spring 2017, Fall 2017, 2018, 2019, 2020, 2021)
 
 * Distributed Computation (Spring 2017)
