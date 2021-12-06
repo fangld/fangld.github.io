@@ -14,7 +14,7 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 *: Corresponding Authors
 
-1. Junming Qiu, Wenqing Li, Zhanhao Xiao, **Quanlong Guan***, **Liangda Fang***, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), 2022. Accepted (CCF A)
+1. Junming Qiu, Wenqing Li, Zhanhao Xiao, Quanlong Guan, **Liangda Fang***, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), 2022. Accepted (CCF A)
 
 1. Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B) [[Source code]](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
