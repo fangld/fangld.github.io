@@ -14,6 +14,8 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 *: Corresponding Authors
 
+1. Junming Qiu, Wenqing Li, Zhanhao Xiao, **Quanlong Guan***, **Liangda Fang***, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), 2022. Accepted (CCF A)
+
 1.  Xuanxiang Huang, Haipeng Che, **Liangda Fang***, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD-2020), 2020. (CCF B) [[Source code]](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
 1. Zhao-Rong Lai, Liming Tan, Xiaotian Wu, **Liangda Fang**. Loss Control with Rank-one Covariance Estimate for Short-term Portfolio Optimization. Journal of Machine Learning Research, 21: 1-37, 2020. (CCF A)
@@ -24,9 +26,9 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 1. **Liangda Fang**, Biqing Fang, Hai Wan*, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 IEEE/ACM International Conference On Computer Aided Design (ICCAD-2019), 2019. (CCF B) [[Source code]](https://github.com/fangbq/TSDD)
 
-1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Disjunctive Normal Form for Multi-Agent Modal Logics Based on Logical Separability. In Proceedings of the 23rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2817-2826, 2019. (CCF A)
+1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Disjunctive Normal Form for Multi-Agent Modal Logics Based on Logical Separability. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2817-2826, 2019. (CCF A)
 
-1. Xuanxiang Huang, Kehang Fang, **Liangda Fang***, Qingliang Chen, Zhao-Rong Lai, Linfeng Wei. Bi-Kronecker Functional Decision Diagrams: A Novel Canonical Representation of Boolean Functions. In Proceedings of the 23rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2867-2875, 2019. (CCF A)
+1. Xuanxiang Huang, Kehang Fang, **Liangda Fang***, Qingliang Chen, Zhao-Rong Lai, Linfeng Wei. Bi-Kronecker Functional Decision Diagrams: A Novel Canonical Representation of Boolean Functions. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2867-2875, 2019. (CCF A)
 
 1. **Liangda Fang**, Yongmei Liu*, Hans van Ditmarsch. Forgetting in multi-agent modal logics. Artificial Intelligence, 266: 51-80, 2019. (CCF A)
 
@@ -38,7 +40,7 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 1. Pei-Yi Yang, Zhao-Rong Lai*, Xiaotian Wu, **Liangda Fang**. Trend representation based log-density regularization system for portfolio optimization. Pattern Recognition, 76: 14-24, 2018. (CCF B)
 
-1. **Liangda Fang**, Hai Wan, Xianqiao Liu, Biqing Fang, Zhaorong Lai. Dependence in Propositional Logic: Formula-Formula Dependence and Formula Forgetting – Application to Belief Update and Conservative Extension. In Proceedings of the 22nd AAAI Conference on Artificial Intelligence (AAAI-2018), 1835-1844, 2018. (CCF A)
+1. **Liangda Fang**, Hai Wan, Xianqiao Liu, Biqing Fang, Zhaorong Lai. Dependence in Propositional Logic: Formula-Formula Dependence and Formula Forgetting – Application to Belief Update and Conservative Extension. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-2018), 1835-1844, 2018. (CCF A)
 
 1. **Liangda Fang**, Yongemei Liu, Hans van Ditmarsch. Forgetting in Multi-Agent Modal Logics. In Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI-2016), 1066-1073, 2016. (CCF A)
 
