@@ -18,7 +18,7 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 1. Junming Qiu, Wenqing Li, Zhanhao Xiao, Quanlong Guan#, **Liangda Fang#**, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), Accepted. (CCF A) 
 
-1. Xuanxiang Huang, Haipeng Che, **Liangda Fang#**, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD-2020). (CCF B) [[Source code]](https://github.com/XuanxiangHuang/bkfdd-1.0)
+1. Xuanxiang Huang, Haipeng Che, **Liangda Fang#**, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 IEEE/ACM International Conference on Computer Aided Design (ICCAD-2020). (CCF B) [[Source code]](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
 1. Zhao-Rong Lai, Liming Tan, Xiaotian Wu, **Liangda Fang**. Loss Control with Rank-one Covariance Estimate for Short-term Portfolio Optimization. Journal of Machine Learning Research, 21: 1-37, 2020. (CCF A)
 
@@ -26,7 +26,7 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 1. Kaisheng Wu, Yong Qiao, Kaidong Chen, Fei Rong, **Liangda Fang#**, Zhao-Rong Lai, Qian Dong, Liping Xiong. Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games. In Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020), 2041-2043. (CCF B)
 
-1. **Liangda Fang**, Biqing Fang, Hai Wan#, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 IEEE/ACM International Conference On Computer Aided Design (ICCAD-2019). (CCF B) [[Source code]](https://github.com/fangbq/TSDD)
+1. **Liangda Fang**, Biqing Fang, Hai Wan#, Zeqi Zheng, Liang Chang, Quan Yu. Tagged Sentential Decision Diagrams: Combining Standard and Zero-suppressed Compression and Trimming Rules. In Proceedings of 2019 IEEE/ACM International Conference on Computer Aided Design (ICCAD-2019). (CCF B) [[Source code]](https://github.com/fangbq/TSDD)
 
 1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Disjunctive Normal Form for Multi-Agent Modal Logics Based on Logical Separability. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019), 2817-2826. (CCF A)
 
