@@ -14,7 +14,7 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 #: Corresponding Authors
 
-1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery,  Pattern Recognition, Accepted. (CCF B)
+1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery. Pattern Recognition, Accepted. (CCF B)
 
 1. Xiaoyou Lin, Qingliang Chen, **Liangda Fang#**, Quanlong Guan#, Weiqi Luo, Kaile Su. Generalized Linear Integer Numeric Planning. In Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS-2022), Accepted. (CCF B) [[Source code]](https://github.com/RicoJNU/RegexSkeleton)
 
