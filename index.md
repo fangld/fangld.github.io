@@ -7,12 +7,14 @@ layout: default
 
 # Bio
 
-Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2015. After graduaction, he joined [Jinan University](https://www.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 20 papers (including 13 CCF Rank A papers and 7 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), and served as PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019, 2020, 2021), [ICML](https://icml.cc/Conferences/) (2022), [IJCAI](https://www.ijcai.org/) (2018, 2020), [KR](http://www.kr.org/) (2021), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020).
+Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2015. After graduaction, he joined [Jinan University](https://www.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 21 papers (including 13 CCF Rank A papers and 8 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), and served as PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019, 2020, 2021), [ICML](https://icml.cc/Conferences/) (2022), [IJCAI](https://www.ijcai.org/) (2018, 2020), [KR](http://www.kr.org/) (2021), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020).
 He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and received the [Distinguished SPC Award](https://ijcai-21.org/distinguished-reviewers/) of IJCAI-2021. He served as reviewer of journals: [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence/), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning/), [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine), [Frontiers of Computer Science](https://www.springer.com/journal/11704), and [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/).
 
 # Publications
 
 #: Corresponding Authors
+
+1. Xian-bin Ye, Quanlong Guan, Weiqi Luo, LiangdaFanga, **Zhao-Rong Lai#**, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery,  Pattern Recognition, Accepted. (CCF B)
 
 1. Xiaoyou Lin, Qingliang Chen, **Liangda Fang#**, Quanlong Guan#, Weiqi Luo, Kaile Su. Generalized Linear Integer Numeric Planning. In Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS-2022), Accepted. (CCF B) [[Source code]](https://github.com/RicoJNU/RegexSkeleton)
 
