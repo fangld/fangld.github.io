@@ -16,11 +16,11 @@ He also served as Senior PC member of [IJCAI-2021](https://ijcai-21.org/) and re
 
 1. Zhao-Rong Lai, Wu Cheng, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, Accepted. (CCF B)
 
-1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery. Pattern Recognition, Accepted. (CCF B)
+1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery. Pattern Recognition, 128: 108659. (CCF B)
 
-1. Xiaoyou Lin, Qingliang Chen, **Liangda Fang#**, Quanlong Guan#, Weiqi Luo, Kaile Su. Generalized Linear Integer Numeric Planning. In Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS-2022), Accepted. (CCF B) [[Source code]](https://github.com/RicoJNU/RegexSkeleton)
+1. Xiaoyou Lin, Qingliang Chen, **Liangda Fang#**, Quanlong Guan#, Weiqi Luo, Kaile Su. Generalized Linear Integer Numeric Planning. In Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS-2022), 241-251. (CCF B) [[Source code]](https://github.com/RicoJNU/RegexSkeleton)
 
-1. Junming Qiu, Wenqing Li, Zhanhao Xiao, Quanlong Guan#, **Liangda Fang#**, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), Accepted. (CCF A) 
+1. Junming Qiu, Wenqing Li, Zhanhao Xiao, Quanlong Guan#, **Liangda Fang#**, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), 5851-5860. (CCF A) 
 
 1. Xuanxiang Huang, Haipeng Che, **Liangda Fang#**, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 IEEE/ACM International Conference on Computer Aided Design (ICCAD-2020). (CCF B) [[Source code]](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
