@@ -13,9 +13,9 @@ Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.
 
 #: Corresponding Authors
 
-1. Sheng Li, Quanlong Guan#, **Liangda Fang#**, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. Cognitive Diagnosis Focusing on Knowledge Concepts. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), Accepted. (CCF B).
+1. Sheng Li, Quanlong Guan#, **Liangda Fang#**, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. Cognitive Diagnosis Focusing on Knowledge Concepts. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3272-3281. (CCF B).
 
-1. Mingzhi Chen, Quanlong Guan#, Yizhou He#, Zhenyu He, **Liangda Fang**, Weiqi Luo. Knowledge Tracing Model with Learning and Forgetting Behavior. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), Accepted. (CCF B).
+1. Mingzhi Chen, Quanlong Guan#, Yizhou He#, Zhenyu He, **Liangda Fang**, Weiqi Luo. Knowledge Tracing Model with Learning and Forgetting Behavior. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3863-3867. (CCF B).
 
 1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, Accepted. (CCF B)
 
