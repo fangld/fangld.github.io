@@ -7,15 +7,15 @@ layout: default
 
 # Bio
 
-Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2015. After graduaction, he joined [Jinan University](https://www.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 24 papers (including 13 CCF Rank A papers and 11 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), as (Senior) PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019, 2020, 2021), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020), , [IJCAI](https://www.ijcai.org/) (2018, 2020), [KR](https://www.kr.org/) (2021), [WSDM](https://www.wsdm-conference.org/) (2023), and reviewers of [ICML](https://icml.cc/Conferences/) (2022) and [NeurIPS](https://neurips.cc/) (2022) . He also received the [Distinguished SPC Award](https://ijcai-21.org/distinguished-reviewers/) of IJCAI-2021 and the Outstanding Reviewer Award of ICML-2022.
+Liangda Fang received his PhD from [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2015. After graduaction, he joined [Jinan University](https://www.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning and multi-agent systems. Liangda Fang has published 24 papers (including 13 CCF Rank A papers and 11 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), as (Senior) PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019-2023), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020), [IJCAI](https://www.ijcai.org/) (2018, 2020, 2021), [KR](https://www.kr.org/) (2021), [WSDM](https://www.wsdm-conference.org/) (2023), and reviewers of [ICML](https://icml.cc/Conferences/) (2022) and [NeurIPS](https://neurips.cc/) (2022). He also received the [Distinguished SPC Award](https://ijcai-21.org/distinguished-reviewers/) of IJCAI-2021 and the Outstanding Reviewer Award of ICML-2022.
 
 # Publications
 
 #: Corresponding Authors
 
-1. Sheng Li, Quanlong Guan#, **Liangda Fang#**, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. Cognitive Diagnosis Focusing on Knowledge Concepts. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3272-3281. (CCF B).
+1. Sheng Li, Quanlong Guan#, **Liangda Fang#**, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. Cognitive Diagnosis Focusing on Knowledge Concepts. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3272-3281. (CCF B)
 
-1. Mingzhi Chen, Quanlong Guan#, Yizhou He, Zhenyu He, **Liangda Fang**, Weiqi Luo. Knowledge Tracing Model with Learning and Forgetting Behavior. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3863-3867. (CCF B).
+1. Mingzhi Chen, Quanlong Guan#, Yizhou He, Zhenyu He, **Liangda Fang**, Weiqi Luo. Knowledge Tracing Model with Learning and Forgetting Behavior. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3863-3867. (CCF B)
 
 1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, Accepted. (CCF B)
 
