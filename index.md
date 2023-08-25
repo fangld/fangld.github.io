@@ -13,6 +13,8 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
+1. Quanlong Guan, Fang Xiao, Xinghe Cheng, **Liangda Fang#**, Ziliang Chen, Guanliang Chen, Weiqi Luo. KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM-2023), Accepted. (CCF B)
+
 1. Sheng Li, Quanlong Guan#, **Liangda Fang#**, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. Cognitive Diagnosis Focusing on Knowledge Concepts. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3272-3281. (CCF B)
 
 1. Mingzhi Chen, Quanlong Guan#, Yizhou He, Zhenyu He, **Liangda Fang**, Weiqi Luo. Knowledge Tracing Model with Learning and Forgetting Behavior. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3863-3867. (CCF B)
