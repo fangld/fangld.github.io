@@ -13,7 +13,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
-1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, **Quanlong Guan#**, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B)
+1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, Quanlong Guan#, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B)
 
 1. Quanlong Guan, Fang Xiao, Xinghe Cheng, **Liangda Fang#**, Ziliang Chen, Guanliang Chen, Weiqi Luo. KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM-2023), 597–607. (CCF B)
 
