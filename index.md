@@ -7,7 +7,7 @@ layout: default
 
 # Bio
 
-Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2015. After graduaction, he joined [Jinan University](https://english.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning, multi-agent systems and AI for education. Liangda Fang has published 26 papers (including 13 CCF Rank A papers and 14 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), as (Senior) PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019-2024), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020, 2023), [IJCAI](https://www.ijcai.org/) (2018, 2020, 2021, 2023), [KR](https://www.kr.org/) (2021), [WSDM](https://www.wsdm-conference.org/) (2023), and reviewers of [ICML](https://icml.cc/Conferences/) (2022) and [NeurIPS](https://neurips.cc/) (2022), and [WWW](https://www2024.thewebconf.org/) (2024). He also received the Distinguished (Senior) PC Award of [IJCAI-2021](https://ijcai-21.org/distinguished-reviewers/) and [IJCAI-2023](https://ijcai-23.org/distinguished-program-committee-members/), the Outstanding Reviewer Award of ICML-2022, and the Discussion Master Award of ECAI-2023.
+Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2015. After graduaction, he joined [Jinan University](https://english.jnu.edu.cn/) as a lecturer, and was promoted to an associate professor in 2018. His reasearch is in the area of artificial intelligence including knowledge representation and reasoning, machine learning, planning, multi-agent systems and AI for education. Liangda Fang has published 27 papers (including 13 CCF Rank A papers and 14 CCF Rank B papers). He served as one of the local chairs of [SoCS-2021](https://sites.google.com/unibs.it/socs2021), as (Senior) PC member of [AAAI](https://aaai.org/Conferences/AAAI/aaai.php) (2019-2024), [ECAI](https://www.eurai.org/activities/ECAI_conferences) (2020, 2023), [IJCAI](https://www.ijcai.org/) (2018, 2020, 2021, 2023), [KR](https://www.kr.org/) (2021), [WSDM](https://www.wsdm-conference.org/) (2023), and reviewers of [ICML](https://icml.cc/Conferences/) (2022) and [NeurIPS](https://neurips.cc/) (2022), and [WWW](https://www2024.thewebconf.org/) (2024). He also received the Distinguished (Senior) PC Award of [IJCAI-2021](https://ijcai-21.org/distinguished-reviewers/) and [IJCAI-2023](https://ijcai-23.org/distinguished-program-committee-members/), the Outstanding Reviewer Award of ICML-2022, and the Discussion Master Award of ECAI-2023.
 
 # Publications
 
@@ -27,7 +27,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Xiaoyou Lin, Qingliang Chen, **Liangda Fang#**, Quanlong Guan#, Weiqi Luo, Kaile Su. Generalized Linear Integer Numeric Planning. In Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS-2022), 241-251. (CCF B) [[Source code]](https://github.com/RicoJNU/RegexSkeleton)
 
-1. Junming Qiu, Wenqing Li, Zhanhao Xiao, Quanlong Guan#, **Liangda Fang#**, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), 5851-5860. (CCF A) 
+1. Junming Qiu, Wenqing Li, Zhanhao Xiao, Quanlong Guan#, **Liangda Fang#**, Zhao-Rong Lai, Qian Dong. Knowledge Compilation Meets Logical Separability. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI-2022), 5851-5860. (CCF A)
 
 1. Xuanxiang Huang, Haipeng Che, **Liangda Fang#**, Qingliang Chen, Quanlong Guan, Yuhui Deng, Kaile Su. Dynamic Minimization of Bi-Kronecker Functional Decision Diagrams. In Proceedings of 2020 IEEE/ACM International Conference on Computer Aided Design (ICCAD-2020). (CCF B) [[Source code]](https://github.com/XuanxiangHuang/bkfdd-1.0)
 
@@ -49,7 +49,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Zhao-Rong Lai, Pei-Yi Yang, **Liangda Fang**, Xiaotian Wu. Short-term Sparse Portfolio Optimization Based on Alternating Direction Method of Multipliers. Journal of Machine Learning Research, 19(63):1-28, 2018. (CCF A)
 
-1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Knowledge Compilation in the Multi-Agent Epistemic Logic Kn. In Proceedings of the 16th International Conference on Principles of Knowledge Representation and Reasoninge (KR-2018), 637-638. (CCF B)
+1. **Liangda Fang**, Kewen Wang, Zhe Wang, Ximing Wen. Knowledge Compilation in the Multi-Agent Epistemic Logic Kn. In Proceedings of the 16th International Conference on Principles of Knowledge Representation and Reasoning (KR-2018), 637-638. (CCF B)
 
 1. Zhao-Rong Lai, Pei-Yi Yang, Xiaotian Wu, **Liangda Fang**. A kernel-based trend pattern tracking system for portfolio optimization. Data Mining and Knowledge Discovery, 32(6): 1708-1734, 2018. (CCF B)
 
