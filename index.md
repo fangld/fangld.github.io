@@ -13,7 +13,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
-1. Junming Qiu, Wenqing Li, **Liangda Fang#**, Quanlong Guan#, Zhanhao Xiao, Zhao-Rong Lai, Qian Dong. On the role of logical separability in knowledge compilation. Artificial Intelligence, Accepted. (CCF A)
+1. Junming Qiu, Wenqing Li, **Liangda Fang#**, Quanlong Guan#, Zhanhao Xiao, Zhao-Rong Lai, Qian Dong. On the role of logical separability in knowledge compilation. Artificial Intelligence, Accepted, 2024. (CCF A)
 
 1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, Quanlong Guan#, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B)
 
@@ -25,7 +25,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, 1-14, 2022. (CCF B)
 
-1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery. Pattern Recognition, 128: 108659. (CCF B)
+1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery. Pattern Recognition, 128: 108659, 2022. (CCF B)
 
 1. Xiaoyou Lin, Qingliang Chen, **Liangda Fang#**, Quanlong Guan#, Weiqi Luo, Kaile Su. Generalized Linear Integer Numeric Planning. In Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS-2022), 241-251. (CCF B) [[Source code]](https://github.com/RicoJNU/RegexSkeleton)
 
