@@ -13,7 +13,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
-1. Junming Qiu, Wenqing Li, **Liangda Fang#**, Quanlong Guan#, Zhanhao Xiao, Zhao-Rong Lai, Qian Dong. On the role of logical separability in knowledge compilation. Artificial Intelligence, Accepted, 2024. (CCF A)
+1. Junming Qiu, Wenqing Li, **Liangda Fang#**, Quanlong Guan#, Zhanhao Xiao, Zhao-Rong Lai, Qian Dong. On the role of logical separability in knowledge compilation. Artificial Intelligence, 104077: 1-36, 2024. (CCF A)
 
 1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, Quanlong Guan#, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B)
 
