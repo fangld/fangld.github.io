@@ -15,7 +15,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Junming Qiu, Wenqing Li, **Liangda Fang#**, Quanlong Guan#, Zhanhao Xiao, Zhao-Rong Lai, Qian Dong. On the role of logical separability in knowledge compilation. Artificial Intelligence, 328:104077, 2024. (CCF A)
 
-1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, Quanlong Guan#, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B)
+1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, Quanlong Guan#, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B) [[Source code]](https://github.com/YMH0607/SynMS/tree/master)
 
 1. Quanlong Guan, Fang Xiao, Xinghe Cheng, **Liangda Fang#**, Ziliang Chen, Guanliang Chen, Weiqi Luo. KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM-2023), 597–607. (CCF B)
 
