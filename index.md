@@ -13,6 +13,8 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
+1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, 35(2): 1545-1558, 2024. (CCF B)
+
 1. Junming Qiu, Wenqing Li, **Liangda Fang#**, Quanlong Guan#, Zhanhao Xiao, Zhao-Rong Lai, Qian Dong. On the role of logical separability in knowledge compilation. Artificial Intelligence, 328:104077, 2024. (CCF A)
 
 1. **Liangda Fang**, Meihong Yang, Dingliang Cheng, Yunlai Hao, Quanlong Guan#, Liping Xiong. Generalized Strategy Synthesis of Infinite-State Impartial Combinatorial Games via Exact Binary Classification. In Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2024), Accepted. (CCF B) [[Source code]](https://github.com/YMH0607/SynMS/tree/master)
@@ -22,8 +24,6 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 1. Sheng Li, Quanlong Guan#, **Liangda Fang#**, Fang Xiao, Zhenyu He, Yizhou He, Weiqi Luo. Cognitive Diagnosis Focusing on Knowledge Concepts. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3272-3281. (CCF B)
 
 1. Mingzhi Chen, Quanlong Guan#, Yizhou He, Zhenyu He, **Liangda Fang**, Weiqi Luo. Knowledge Tracing Model with Learning and Forgetting Behavior. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM-2022), 3863-3867. (CCF B)
-
-1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, 1-14, 2022. (CCF B)
 
 1. Xian-bin Ye, Quanlong Guan, Weiqi Luo,  **Liangda Fang**, Zhao-Rong Lai#, Jun Wang. Molecular substructure graph attention network for molecular property identification in drug discovery. Pattern Recognition, 128: 108659, 2022. (CCF B)
 
