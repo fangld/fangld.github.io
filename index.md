@@ -13,7 +13,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
-1. Quanlong Guan, Yanchong Yu, Xiujie Huang, **Liangda Fang**, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen. Generating Privacy-preserving Educational Data Records with Diffusion Model. In Proceedings of 2024 International World Wide Web Conference (WWW-2024), Accepted. (CCF A)
+1. Quanlong Guan, Yanchong Yu, Xiujie Huang, **Liangda Fang**, Chaobo He, Lusheng Wu, Weiqi Luo, Guanliang Chen. Generating Privacy-preserving Educational Data Records with Diffusion Model. In Proceedings of International World Wide Web Conference 2024 (WWW-2024), Accepted. (CCF A)
 
 1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, 35(2): 1545-1558, 2024. (CCF B)
 
