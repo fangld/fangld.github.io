@@ -75,6 +75,6 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 * [Numerical Analysis](./numerical-analysis.html) (Fall 2016 - 2023)
 
-* [Mathematical Logics](./mathematical-logics.html) (Graduated Courses) (Spring 2017, Fall 2017 - 2022)
+* [Mathematical Logics](./mathematical-logics.html) (Graduated Courses) (Spring 2017, 2024, Fall 2017 - 2022)
 
 * Distributed Computation (Spring 2017)
