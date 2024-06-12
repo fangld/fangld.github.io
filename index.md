@@ -21,7 +21,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Weijun Yuan, Zhan Li#, Xiaohan Li, **Liangda Fang**, Qingfeng Zhang, Zhixiang Qiu. Crowd Counting and Localization in Haze and Rain. In Proceedings of IEEE Conference on Multimedia Expo 2024 (ICME-2024), Accepted. (CCF B)
 
-1. Quanlong Guan, Yanchong Yu, Xiujie Huang#, **Liangda Fang#**, Chaobo He, Lusheng Wu#, Weiqi Luo, Guanliang Chen. Generating Privacy-preserving Educational Data Records with Diffusion Model. In Proceedings of ACM Web Conference 2024 (WWW-2024), Accepted. (CCF A)
+1. Quanlong Guan, Yanchong Yu, Xiujie Huang#, **Liangda Fang#**, Chaobo He, Lusheng Wu#, Weiqi Luo, Guanliang Chen. Generating Privacy-preserving Educational Data Records with Diffusion Model. In Proceedings of ACM Web Conference 2024 (WWW-2024), 806-809. (CCF A)
 
 1. Zhao-Rong Lai, Cheng Li#, Xiaotian Wu, Quanlong Guan, **Liangda Fang**. Multi-trend Conditional Value at Risk for Portfolio Optimization. IEEE Transactions on Neural Networks and Learning Systems, 35(2): 1545-1558, 2024. (CCF B)
 
