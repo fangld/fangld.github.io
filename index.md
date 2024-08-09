@@ -15,11 +15,11 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Xiuliang Duan, Dating Tan, **Liangda Fang**, Yuyu Zhou, Chaobo He, Ziliang Chen, Lusheng Wu, Guanliang Chen, Zhiguo Gong, Weiqi Luo, Quanlong Guan#. Reason-and-Execute Prompting: Enhancing MultiModal Large Language Models for Solving Geometry Questions. In Proceedings of the 32nd ACM International Conference on Multimedia (MM-2024), Accepted. (CCF A)
 
-1. **Liangda Fang**, Tong Zhu, Quanlong Guan#, Junming Qiu#, Zhao-Rong Lai, Weiqi Luo, Hai Wan. On the Logic of Theory Change Iteration of KM-Update, Revised. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), Accepted. (CCF A)
+1. **Liangda Fang**, Tong Zhu, Quanlong Guan#, Junming Qiu#, Zhao-Rong Lai, Weiqi Luo, Hai Wan. On the Logic of Theory Change Iteration of KM-Update, Revised. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), 3351-3359. (CCF A)
 
-1. Mingwei Zhang, **Liangda Fang#**, Zhenhao Gu, Quanlong Guan#, Yong Lai. A Multi-Valued Decision Diagram-Based Approach to Constrained Optimal Path Problems over Directed Acyclic Graphs. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), Accepted. (CCF A)
+1. Mingwei Zhang, **Liangda Fang#**, Zhenhao Gu, Quanlong Guan#, Yong Lai. A Multi-Valued Decision Diagram-Based Approach to Constrained Optimal Path Problems over Directed Acyclic Graphs. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), 1979-1988. (CCF A)
 
-1. Zhao-Rong Lai, Xiaotian Wu, **Liangda Fang**, Ziliang Chen#. A De-singularity Subgradient Approach for the Extended Weber Location Problem. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), Accepted. (CCF A)
+1. Zhao-Rong Lai, Xiaotian Wu, **Liangda Fang**, Ziliang Chen#. A De-singularity Subgradient Approach for the Extended Weber Location Problem. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), 4370-4379. (CCF A)
 
 1. Weijun Yuan, Zhan Li#, Xiaohan Li, **Liangda Fang**, Qingfeng Zhang, Zhixiang Qiu. Crowd Counting and Localization in Haze and Rain. In Proceedings of IEEE Conference on Multimedia Expo 2024 (ICME-2024), Accepted. (CCF B)
 
