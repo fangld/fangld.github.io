@@ -13,7 +13,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
-1. Delong Li, Jiayu Zeng, **Liangda Fang#**, Chaonan Wang, Lin Cui, Quanlong Guan#. Exact Computation of Network Reliability with Sentential Decision Diagrams. In Proceedings of The 35th IEEE International Symposium on Software Reliability Engineering (ISSRE-2024), Accepted. (CCF B) [[Source code]](https://github.com/addfish666/sdd-based-network-reliability)
+1. Delong Li, Jiayu Zeng, **Liangda Fang#**, Chaonan Wang, Lin Cui, Quanlong Guan#. Exact Computation of Network Reliability with Sentential Decision Diagrams. In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering (ISSRE-2024), Accepted. (CCF B) [[Source code]](https://github.com/addfish666/sdd-based-network-reliability)
 
 1. Xiuliang Duan, Dating Tan, **Liangda Fang#**, Yuyu Zhou, Chaobo He, Ziliang Chen, Lusheng Wu#, Guanliang Chen, Zhiguo Gong, Weiqi Luo, Quanlong Guan#、. Reason-and-Execute Prompting: Enhancing MultiModal Large Language Models for Solving Geometry Questions. In Proceedings of the 32nd ACM International Conference on Multimedia (MM-2024), Accepted. (CCF A) [[Source code]](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting)
 
