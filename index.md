@@ -23,7 +23,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Zhao-Rong Lai, Xiaotian Wu, **Liangda Fang**, Ziliang Chen#. A De-singularity Subgradient Approach for the Extended Weber Location Problem. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-2024), 4370-4379. (CCF A)
 
-1. Weijun Yuan, Zhan Li#, Xiaohan Li, **Liangda Fang**, Qingfeng Zhang, Zhixiang Qiu. Crowd Counting and Localization in Haze and Rain. In Proceedings of 2024 IEEE Conference on Multimedia Expo (ICME-2024), Accepted. (CCF B)
+1. Weijun Yuan, Zhan Li#, Xiaohan Li, **Liangda Fang**, Qingfeng Zhang, Zhixiang Qiu. Crowd Counting and Localization in Haze and Rain. In Proceedings of 2024 IEEE Conference on Multimedia Expo (ICME-2024). (CCF B)
 
 1. Quanlong Guan, Yanchong Yu, Xiujie Huang#, **Liangda Fang#**, Chaobo He, Lusheng Wu#, Weiqi Luo, Guanliang Chen. Generating Privacy-preserving Educational Data Records with Diffusion Model. In Proceedings of ACM Web Conference 2024 (WWW-2024), 806-809. (CCF A)
 
