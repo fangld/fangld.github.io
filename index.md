@@ -13,7 +13,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
-1. Quanlong Guan, Xinghe Cheng#, Fang Xiao, Zhuzhou Li, Chaobo He, **Liangda Fang**, Guanliang Chen#, Zhiguo Gong, Weiqi Luo. Explainable Exercise Recommendation with Knowledge Graph. Neural Networks, Accepted. (CCF 8)
+1. Quanlong Guan, Xinghe Cheng#, Fang Xiao, Zhuzhou Li, Chaobo He, **Liangda Fang**, Guanliang Chen#, Zhiguo Gong, Weiqi Luo. Explainable Exercise Recommendation with Knowledge Graph. Neural Networks, Accepted. (CCF B)
 
 1. Delong Li, Jiayu Zeng, **Liangda Fang#**, Chaonan Wang, Lin Cui, Quanlong Guan#. Exact Computation of Network Reliability with Sentential Decision Diagrams. In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering (ISSRE-2024), Accepted. (CCF B) [[Source code]](https://github.com/addfish666/sdd-based-network-reliability)
 
