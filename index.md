@@ -15,7 +15,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. **Liangda Fang**, Xiaoman Wang, Zhang Chen, Kailun Luo, Zhenhe Cui, Quanlong Guan#. A Syntactic Approach to Computing Complete and Sound Abstraction in the Situation Calculus. In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-2025), Accepted (CCF A)
 
-1. Zhao-Rong Lai, Xiaotian Wu, **Liangda Fang**, Ziliang Chen, Cheng Li. De-singularity Subgradient for the q-th-Powered lp-Norm Weber Location Problem. In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-2025), Accepted (CCF A)
+1. Zhao-Rong Lai, Xiaotian Wu, **Liangda Fang**, Ziliang Chen, Cheng Li#. De-singularity Subgradient for the q-th-Powered lp-Norm Weber Location Problem. In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-2025), Accepted (CCF A)
 
 1. Quanlong Guan, Xinghe Cheng#, Fang Xiao, Zhuzhou Li, Chaobo He, **Liangda Fang**, Guanliang Chen#, Zhiguo Gong, Weiqi Luo. Explainable Exercise Recommendation with Knowledge Graph. Neural Networks, 183:106954, 2025. (CCF B)
 
