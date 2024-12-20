@@ -13,6 +13,8 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 #: Corresponding Authors
 
+1. **Liangda Fang**, Shikang Chen, Xiaoman Wang, Xiaoyou Lin, Chenyi Zhang, Qingliang Chen, Quanlong Guan, Kaile Su. Automatic Verification of Linear Integer Planning Programs via Forgetting in LIAUPF. In Proceedings of the 24th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2025), Accepted (CCF B)
+
 1. **Liangda Fang**, Xiaoman Wang, Zhang Chen, Kailun Luo, Zhenhe Cui, Quanlong Guan#. A Syntactic Approach to Computing Complete and Sound Abstraction in the Situation Calculus. In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-2025), Accepted (CCF A)
 
 1. Zhao-Rong Lai, Xiaotian Wu, **Liangda Fang**, Ziliang Chen, Cheng Li#. De-singularity Subgradient for the q-th-Powered lp-Norm Weber Location Problem. In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-2025), Accepted (CCF A)
