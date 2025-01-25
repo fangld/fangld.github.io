@@ -21,7 +21,7 @@ Liangda Fang received his PhD from [Sun Yat-sen University](https://www.sysu.edu
 
 1. Quanlong Guan, Xinghe Cheng#, Fang Xiao, Zhuzhou Li, Chaobo He, **Liangda Fang**, Guanliang Chen#, Zhiguo Gong, Weiqi Luo. Explainable Exercise Recommendation with Knowledge Graph. Neural Networks, 183:106954, 2025. (CCF B)
 
-1. Quanlong Guan, Xiuliang Duan, Kaiquan Bian, **Liangda Fang**, Jianbo Huang#, Zhiguo Gong, Guanliang Chen. KVFKT: A New Horizon in Knowledge Tracing with Attention-Based Embedding and Forgetting Curve Integration. In Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025), Accepted. (CCF B)
+1. Quanlong Guan, Xiuliang Duan#, Kaiquan Bian,  Guanliang Chen, Jianbo Huang#, Zhiguo Gong, **Liangda Fang**. KVFKT: A New Horizon in Knowledge Tracing with Attention-Based Embedding and Forgetting Curve Integration. In Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025), 4399-4409. (CCF B)
 
 1. Delong Li, Jiayu Zeng, **Liangda Fang#**, Chaonan Wang, Lin Cui, Quanlong Guan#. Exact Computation of Network Reliability with Sentential Decision Diagrams. In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering (ISSRE-2024), 617-628. (CCF B) [[Source code]](https://github.com/addfish666/sdd-based-network-reliability)
 
