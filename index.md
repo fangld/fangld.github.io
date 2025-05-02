@@ -29,7 +29,7 @@ Liangda Fang received his BSc, MSc and PhD from [Guangzhou University](https://e
 
 1. Quanlong Guan, Xiuliang Duan#, Kaiquan Bian,  Guanliang Chen, Jianbo Huang#, Zhiguo Gong, **Liangda Fang**. KVFKT: A New Horizon in Knowledge Tracing with Attention-Based Embedding and Forgetting Curve Integration. In Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025), 4399-4409. (CCF B)
 
-1. Delong Li, Jiayu Zeng, **Liangda Fang#**, Chaonan Wang, Lin Cui, Quanlong Guan#. Exact Computation of Network Reliability with Sentential Decision Diagrams. In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering (ISSRE-2024), 617-628. (CCF B) [[Source code]](https://github.com/addfish666/sdd-based-network-reliability)
+1. Delong Li, Jiayu Zeng, **Liangda Fang#**, Chaonan Wang, Lin Cui, Quanlong Guan. Exact Computation of Network Reliability with Sentential Decision Diagrams. In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering (ISSRE-2024), 617-628. (CCF B) [[Source code]](https://github.com/addfish666/sdd-based-network-reliability)
 
 1. Xiuliang Duan, Dating Tan, **Liangda Fang#**, Yuyu Zhou, Chaobo He, Ziliang Chen, Lusheng Wu#, Guanliang Chen, Zhiguo Gong, Weiqi Luo, Quanlong Guan. Reason-and-Execute Prompting: Enhancing MultiModal Large Language Models for Solving Geometry Questions. In Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM-2024), 6959-6968. (CCF A) [[Source code]](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting)
 
