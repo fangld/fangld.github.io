@@ -15,7 +15,7 @@ Liangda Fang received his BSc, MSc and PhD from [Guangzhou University](https://e
 
 1. Ziliang Chen, Zhao-Rong Lai, Yufeng Yang, **Liangda Fang**, Zhanfu Yang, Liang Lin. Language Model as Implicit Tree Search. In Proceedings of the 41nd International Conference on Machine Learning (ICML-2025), Accepted (CCF A)
 
-1. **Liangda Fang**, Min Zhan, Jin Tong, Xiujie Huang, Ziliang Chen, Quanlong Guan#. Improvements to the Generate-and-Complete Approach to Conformant Planning. In Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025), Accepted (CCF A)
+1. **Liangda Fang**, Min Zhan, Jin Tong, Xiujie Huang#, Ziliang Chen, Quanlong Guan#. Improvements to the Generate-and-Complete Approach to Conformant Planning. In Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025), Accepted (CCF A)
 
 1. Xinghe Cheng, Xufang Zhou, **Liangda Fang#**, Chaobo He, Yuyu Zhou, Weiqi Luo, Zhiguo Gong and Quanlong Guan#. NR4DER: Neural Re-ranking for Diversified Exercise Recommendation. In Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-2025), Accepted (CCF A) [[Source code]](https://github.com/chanllon/NR4DER.Exercise-Recommendation)
 
