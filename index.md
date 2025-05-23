@@ -19,7 +19,7 @@ Liangda Fang received his BSc, MSc and PhD from [Guangzhou University](https://e
 
 1. Xinghe Cheng, Xufang Zhou, **Liangda Fang#**, Chaobo He, Yuyu Zhou, Weiqi Luo, Zhiguo Gong and Quanlong Guan#. NR4DER: Neural Re-ranking for Diversified Exercise Recommendation. In Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-2025), Accepted (CCF A) [[Source code]](https://github.com/chanllon/NR4DER.Exercise-Recommendation)
 
-1. **Liangda Fang**, Shikang Chen, Xiaoman Wang, Xiaoyou Lin, Chenyi Zhang, Qingliang Chen, Quanlong Guan#, Kaile Su#. Automatic Verification of Linear Integer Planning Programs via Forgetting in LIAUPF. In Proceedings of the 24th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2025), Accepted (CCF B) [[Source code]](https://github.com/oldg00se/GLINP)
+1. **Liangda Fang**, Shikang Chen, Xiaoman Wang, Xiaoyou Lin, Chenyi Zhang, Qingliang Chen, Quanlong Guan#, Kaile Su#. Automatic Verification of Linear Integer Planning Programs via Forgetting in LIAUPF. In Proceedings of the 24th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2025), 722-730. (CCF B) [[Source code]](https://github.com/oldg00se/GLINP)
 
 1. **Liangda Fang**, Xiaoman Wang, Zhang Chen, Kailun Luo, Zhenhe Cui, Quanlong Guan#. A Syntactic Approach to Computing Complete and Sound Abstraction in the Situation Calculus. In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-2025), 14911-14921. (CCF A)
 
