@@ -13,6 +13,8 @@ Liangda Fang received his BSc, MSc and PhD from [Guangzhou University](https://e
 
 #: Corresponding Authors
 
+1. Quanlong Guan, Xiuliang Duan#, Zhi Chen, Xingyu Zhu, Jianbo Huang, Xinzhong Liu, Zonglin Liu, **Liangda Fang**. PERC: A Prior-Guided Framework for Classifying Long-Content Educational Resources with Imbalanced Category Distributions. In Proceeedings of the 34th Conference on Information and Knowledge Management (CIKM-2022), Accepted (CCF B)
+
 1. Ziliang Chen, Zhao-Rong Lai, Yufeng Yang, **Liangda Fang**, Zhanfu Yang, Liang Lin. Language Model as Implicit Tree Search. In Proceedings of the 41st International Conference on Machine Learning (ICML-2025), Accepted (CCF A)
 
 1. **Liangda Fang**, Min Zhan, Jin Tong, Xiujie Huang#, Ziliang Chen, Quanlong Guan#. Improvements to the Generate-and-Complete Approach to Conformant Planning. In Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025), Accepted (CCF A)
