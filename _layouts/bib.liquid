@@ -2,6 +2,8 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
+    <!-- 只有当有预览图或期刊缩写时才显示左侧列 -->
+    {% if entry.preview or entry.abbr %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
@@ -43,12 +45,41 @@
         {% endif %}
       {% endif %}
     </div>
+    {% endif %}
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <!-- 动态调整内容列宽度：如果有左侧列则8列，否则10列 -->
+  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails and (entry.preview or entry.abbr) %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
+    
+    <!-- 如果没有左侧列，但需要显示期刊缩写，则在这里显示 -->
+    {% unless entry.preview %}
+      {% if entry.abbr and site.enable_publication_thumbnails %}
+        {%- if site.data.venues[entry.abbr] -%}
+          {% assign venue_style = null %}
+          {% if site.data.venues[entry.abbr].color != blank %}
+            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+          {%- endif -%}
+          <abbr
+            class="badge rounded"
+            {% if venue_style %}
+              {{ venue_style }}
+            {% endif -%}
+          >
+            {% if site.data.venues[entry.abbr].url %}
+              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+            {% else %}
+              <div>{{- entry.abbr -}}</div>
+            {% endif %}
+          </abbr>
+        {% else %}
+          <abbr class="badge rounded">{{ entry.abbr }}</abbr>
+        {% endif %}
+      {% endif %}
+    {% endunless %}
+    
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -153,37 +184,66 @@
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      <!-- 添加卷号、期号和页码信息 -->
+      {% if entry.volume or entry.number or entry.pages %}
+        {% capture entrydetails %}
+          {% if entry.volume %},{{ entry.volume }}{% endif %}
+          {% if entry.number %}({{ entry.number }}){% endif %}
+          {% if entry.pages %}: {{ entry.pages }}{% endif %}
+        {% endcapture %}
+      {% endif %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+      <!-- 添加会议论文的页码信息 -->
+      {% if entry.pages %}
+        {% capture entrydetails %},{{ entry.pages }}{% endcapture %}
+      {% endif %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
+    
     {% if entry.month %}
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
     {% if entry.year %}
-      {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
+      {% capture entryyear %}{{ "" }}{{ entry.year }}{% endcapture %}
     {% endif %}
+    
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
     {% endif -%}
+    
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
+    
     {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
     {% if hook_exists == 'true' %}
       {% include hook/bib.liquid %}
     {% endif %}
+    
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    
+    <!-- 构建完整的期刊/会议信息，包括卷号、期号和页码 -->
+    {% capture periodical %}
+      {{ entrytype }}
+      {% if entrydetails %} {{ entrydetails }}{% endif %}
+      {% if entrytype_text != "" and entryyear != "" %}, {% endif %}
+      {{ entrymonth }}{{ entryyear }}
+    {% endcapture %}
+    
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
+    
+    <!-- 显示备注信息（如CCF等级） -->
+    {% if entry.note %}
+      <div class="periodical">
+        {{ entry.note | strip }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
