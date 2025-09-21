@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 6
@@ -169,8 +169,7 @@ nav_order: 6
 </head>
 <body>
     <div class="container">
-        <div class="courses-container">
-            
+        <div class="courses-container">   
             <div class="course-card">
                 <div class="course-icon">
                     <i class="fas fa-calculator"></i>
@@ -181,7 +180,6 @@ nav_order: 6
                     <p>Advanced course covering numerical methods for solving mathematical problems, including interpolation, differentiation, integration, and differential equations.</p>
                 </div>
             </div>
-            
             <div class="course-card">
                 <div class="course-icon">
                     <i class="fas fa-brain"></i>
@@ -203,7 +201,6 @@ nav_order: 6
                     </div>
                 </div>
             </div>
-            
             <div class="course-card">
                 <div class="course-icon">
                     <i class="fas fa-network-wired"></i>
@@ -214,7 +211,6 @@ nav_order: 6
                     <p>Course focusing on the principles and practices of distributed computing systems, including algorithms, architectures, and consistency models.</p>
                 </div>
             </div>
-            
         </div>
     </div>
 </body>
