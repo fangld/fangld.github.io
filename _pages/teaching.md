@@ -176,7 +176,7 @@ nav_order: 6
                 </div>
                 <div class="course-content">
                     <h2 class="course-title">Numerical Analysis</h2>
-                    <span class="course-period">Fall 2016 - 2025</span>
+                    <span class="course-period">The autumn of each year from 2016 to 2025</span>
                     <p>Advanced course covering numerical methods for solving mathematical problems, including interpolation, differentiation, integration, and differential equations.</p>
                 </div>
             </div>
@@ -186,9 +186,10 @@ nav_order: 6
                 </div>
                 <div class="course-content">
                     <h2 class="course-title">Mathematical Logics</h2>
-                    <span class="course-period">Graduated Courses</span>
+                    <span class="course-period">The autumn of each year from 2017 to 2022</span>
+                    <span class="course-period">Spring 2024 and Spring 2025</span>
                     <p>Graduate-level course exploring advanced topics in mathematical logic, including set theory, model theory, and proof theory.</p>
-                    <div class="semester-tags">
+                    <!-- <div class="semester-tags">
                         <span class="semester-tag spring"><i class="fas fa-seedling"></i> Spring 2017</span>
                         <span class="semester-tag spring"><i class="fas fa-seedling"></i> Spring 2024</span>
                         <span class="semester-tag spring"><i class="fas fa-seedling"></i> Spring 2025</span>
@@ -198,17 +199,7 @@ nav_order: 6
                         <span class="semester-tag fall"><i class="fas fa-leaf"></i> Fall 2020</span>
                         <span class="semester-tag fall"><i class="fas fa-leaf"></i> Fall 2021</span>
                         <span class="semester-tag fall"><i class="fas fa-leaf"></i> Fall 2022</span>
-                    </div>
-                </div>
-            </div>
-            <div class="course-card">
-                <div class="course-icon">
-                    <i class="fas fa-network-wired"></i>
-                </div>
-                <div class="course-content">
-                    <h2 class="course-title">Distributed Computation</h2>
-                    <span class="course-period">Spring 2017</span>
-                    <p>Course focusing on the principles and practices of distributed computing systems, including algorithms, architectures, and consistency models.</p>
+                    </div> -->
                 </div>
             </div>
         </div>
