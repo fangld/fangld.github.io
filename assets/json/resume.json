@@ -101,20 +101,17 @@
   {
   "title": "Outstanding (Senior) PC Award",
   "date": "2021-2023",
-  "awarder": "IJCAI",
-  "summary": "Awarded for outstanding contribution as program committee member"
+  "awarder": "IJCAI"
   },
   {
   "title": "Outstanding Reviewer Award",
   "date": "2022",
-  "awarder": "ICML",
-  "summary": "Awarded for exceptional reviewing contributions"
+  "awarder": "ICML"
   },
   {
   "title": "Outstanding Reviewer Award",
   "date": "2023",
-  "awarder": "ECAI",
-  "summary": "Awarded for exceptional reviewing contributions"
+  "awarder": "ECAI"
   }
   ],
   "certificates": [],
@@ -138,7 +135,7 @@
   "Machine Learning",
   "Automated Planning",
   "Multi-Agent Systems",
-  "Educational AI"
+  "AI in Education"
   ]
   }
   ],
