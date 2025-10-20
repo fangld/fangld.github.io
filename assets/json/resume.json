@@ -6,7 +6,7 @@
   "email": "fangld@jnu.edu.cn",
   "phone": "",
   "url": "https://fangld.github.io",
-  "summary": "Liangda Fang received his Ph.D. from Sun Yat-sen University in 2015. After graduation, he joined Jinan University as a lecturer and was promoted to associate professor in 2018. His main research interests include artificial intelligence, knowledge representation and reasoning, machine learning, planning, multi-agent systems, and educational artificial intelligence. He has published 35 papers in CCF recommended A/B class conferences and journals.",
+  "summary": "Liangda Fang received his Ph.D. from Sun Yat-sen University in 2015. After graduation, he joined Jinan University as a lecturer and was promoted to associate professor in 2018. His main research interests include artificial intelligence, knowledge representation and reasoning, machine learning, planning, multi-agent systems, and educational artificial intelligence. He has been productive in his research fields with a series of influential outcomes, having published 35 papers in international high-level journals and conferences that are categorized as Rank A or B by the China Computer Federation (CCF).",
   "location": {
   "address": "College of Information Science and Technology",
   "postalCode": "",
@@ -38,64 +38,29 @@
   "url": "https://www.jnu.edu.cn",
   "startDate": "2016-02-01",
   "endDate": "2018-09-30"
-  },
-  {
-    "name": "Hong Kong University of Science and Technology",
-    "position": "Visiting Scholar",
-    "url": "https://www.cse.ust.hk",
-    "startDate": "2017-11-01",
-    "endDate": "2017-12-31",
-    "summary": "Collaborated with Professor Fangzhen Lin on research projects"
-  },
-  {
-    "name": "Griffith University",
-    "position": "Visiting Scholar",
-    "url": "https://www.griffith.edu.au",
-    "startDate": "2017-01-01",
-    "endDate": "2017-02-28",
-    "summary": "Collaborated with Professor Kewen Wang's ASIT research group"
-  },
-  {
-    "name": "Zhejiang University",
-    "position": "Visiting Scholar",
-    "url": "https://www.zju.edu.cn",
-    "startDate": "2016-03-01",
-    "endDate": "2016-04-30",
-    "summary": "Collaborated with Professor Tie Wang and Hans van Ditmarsch"
-  },
-  {
-    "name": "LORIA Laboratory (CNRS)",
-    "position": "Visiting Student",
-    "url": "https://www.loria.fr",
-    "startDate": "2014-09-01",
-    "endDate": "2014-11-30",
-    "summary": "Collaborated with Hans van Ditmarsch in the CELLO research group"
   }
   ],
   "volunteer": [
     {
-      "organization": "International AI Conferences",
       "position": "Program Committee Member & Reviewer",
       "startDate": "2018",
       "endDate": "2024",
-      "summary": "Served a Program Committee Member and Reviewer for top-tier AI conferences",
       "highlights": [
-        "IJCAI: 2018, 2020, 2021, 2023, 2024",
-        "AAAI: 2019-2024",
-        "ECAI: 2020, 2023, 2024",
+        "IJCAI: 2018, 2020, 2021, 2023-2025",
+        "AAAI: 2019-2026",
+        "ECAI: 2020, 2023-2025",
         "KR: 2021",
         "WSDM: 2023",
         "ICML: 2022",
         "NeurIPS: 2022",
-        "WWW: 2024"
+        "WWW: 2024, 2026"
       ]
     },
     {
       "organization": "SoCS-2021",
       "position": "Local Chair",
       "startDate": "2021",
-      "endDate": "2021",
-      "summary": "Served as one of the Local Chairs for the Symposium on Combinatorial Search 2021"
+      "endDate": "2021"
     }
   ],
   "education": [
@@ -113,7 +78,7 @@
   {
   "institution": "Guangdong University of Technology",
   "location": "Guangzhou, China",
-  "area": "Computer System Architecture",
+  "area": "Computer System and Architecture",
   "studyType": "Master",
   "startDate": "2007-09-01",
   "endDate": "2010-06-30",
