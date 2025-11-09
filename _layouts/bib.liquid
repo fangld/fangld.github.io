@@ -1,6 +1,13 @@
 ---
 ---
-<div class="row">
+{% comment %} 添加全局计数器 {% endcomment %}
+{% if forloop.first %}
+  {% assign publication_counter = 1 %}
+{% else %}
+  {% assign publication_counter = publication_counter | plus: 1 %}
+{% endif %}
+
+<div class="row publication-item">
   {% if site.enable_publication_thumbnails %}
     <!-- 只有当有预览图或期刊缩写时才显示左侧列 -->
     {% if entry.preview or entry.abbr %}
@@ -51,8 +58,11 @@
   <!-- Entry bib key -->
   <!-- 动态调整内容列宽度：如果有左侧列则8列，否则10列 -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails and (entry.preview or entry.abbr) %}col-sm-8{% else %}col-sm-10{% endif %}">
-    <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <!-- Title with inline number -->
+    <div class="title">
+      <span class="publication-number">{{ publication_counter }}.</span>
+      {{ entry.title }}
+    </div>
     
     <!-- 如果没有左侧列，但需要显示期刊缩写，则在这里显示 -->
     {% unless entry.preview %}
