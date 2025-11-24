@@ -6,7 +6,7 @@
   "email": "fangld@jnu.edu.cn",
   "phone": "",
   "url": "https://fangld.github.io",
-  "summary": "Liangda Fang received his Ph.D. from Sun Yat-sen University in 2015. After graduation, he joined Jinan University as a lecturer and was promoted to associate professor in 2018. His main research interests include artificial intelligence, knowledge representation and reasoning, machine learning, planning, multi-agent systems, and educational artificial intelligence. He has been productive in his research fields with a series of influential outcomes, having published 45 papers in international high-quality journals and conferences that are categorized as Rank A or B by the China Computer Federation (CCF).",
+  "summary": "Liangda Fang received his Ph.D. from Sun Yat-sen University in 2015. After graduation, he joined Jinan University as a lecturer and was promoted to associate professor in 2018. His main research interests include artificial intelligence, knowledge representation and reasoning, machine learning, planning, multi-agent systems, and AI in education. He has published 45 papers in international high-quality journals and conferences that are categorized as Rank A or B by the China Computer Federation (CCF).",
   "location": {
   "address": "College of Information Science and Technology",
   "postalCode": "",
@@ -118,16 +118,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-  {
-  "language": "Chinese",
-  "fluency": "Native"
-  },
-  {
-  "language": "English",
-  "fluency": "Fluent"
-  }
-  ],
+  "languages": [],
   "interests": [
   {
   "name": "Artificial Intelligence",
