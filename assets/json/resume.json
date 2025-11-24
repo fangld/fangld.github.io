@@ -47,11 +47,19 @@
       "endDate": "2024",
       "highlights": [
         "AAAI: 2019-2026",
+<<<<<<< Updated upstream
         "CVPR: 2025-2026",        
         "ECAI: 2020, 2023-2025",
         "ICML: 2022",
         "IJCAI: 2018, 2020, 2021, 2023-2025",
         "KR: 2021",        
+=======
+        "CVPR: 2025-2026",
+        "ECAI: 2020, 2023-2025",
+        "ICML: 2022",
+        "IJCAI: 2018, 2020, 2021, 2023-2025",
+        "KR: 2021",
+>>>>>>> Stashed changes
         "NeurIPS: 2022",
         "WSDM: 2023",
         "WWW: 2024, 2026"
@@ -142,4 +150,8 @@
   ],
   "references": [],
   "projects": []
+<<<<<<< Updated upstream
   }
+=======
+}
+>>>>>>> Stashed changes
