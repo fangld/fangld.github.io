@@ -40,11 +40,9 @@
   "endDate": "2018-09-30"
   }
   ],
-  "academic service": [
+  "service": [
     {
       "position": "Program Committee Member & Reviewer",
-      "startDate": "2018",
-      "endDate": "2024",
       "highlights": [
         "AAAI: 2019-2026",
         "CVPR: 2025-2026",        
