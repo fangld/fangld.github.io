@@ -176,7 +176,7 @@ nav_order: 6
                 </div>
                 <div class="course-content">
                     <h2 class="course-title">Numerical Analysis</h2>
-                    <span class="course-period">The autumn of each year from 2016 to 2025</span>
+                    <span class="course-period">Autumn 2016 to 2025</span>
                     <p>Advanced course covering numerical methods for solving mathematical problems, including interpolation, differentiation, integration, and differential equations.</p>
                 </div>
             </div>
@@ -186,8 +186,8 @@ nav_order: 6
                 </div>
                 <div class="course-content">
                     <h2 class="course-title">Mathematical Logics</h2>
-                    <span class="course-period">The autumn of each year from 2017 to 2022</span>
-                    <span class="course-period">Spring 2024 and Spring 2025</span>
+                    <span class="course-period">Autumn 2017 to 2022</span>
+                    <span class="course-period">Spring 2024 to 2026</span>
                     <p>Graduate-level course exploring advanced topics in mathematical logic, including set theory, model theory, and proof theory.</p>
                     <!-- <div class="semester-tags">
                         <span class="semester-tag spring"><i class="fas fa-seedling"></i> Spring 2017</span>
