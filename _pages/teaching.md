@@ -176,7 +176,7 @@ nav_order: 6
                 </div>
                 <div class="course-content">
                     <h2 class="course-title">Numerical Analysis</h2>
-                    <span class="course-period">Autumn 2016 to 2025</span>
+                    <span class="course-period">Autumn 2016 to 2026</span>
                     <p>Advanced course covering numerical methods for solving mathematical problems, including interpolation, differentiation, integration, and differential equations.</p>
                 </div>
             </div>
